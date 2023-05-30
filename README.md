@@ -9,9 +9,9 @@ Sou um desenvolvedor apaixonado por tecnologia, inicialmente com foco em desenvo
 
 
 <div>
-  <a href="https://github.com/marcosmoraesnf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosmoraesnf&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmoraesnf&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/MarcosMoraesCode">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosMoraesCode&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMoraesCode&layout=compact&theme=tokyonight" />
 </div>
 
 <br/>
@@ -52,14 +52,14 @@ Totalmente inspirado no simulador da Copa do Mundo do site do Globo Esporte, rep
 
 ### Links
 
-- **Repositório:** [Link para o repositório](https://github.com/marcosmoraesnf/world-cup-simulator)
-- **Demonstração:** [Link para o simulador](https://marcosmoraesnf.github.io/world-cup-simulator/)
+- **Repositório:** [Link para o repositório](https://github.com/MarcosMoraesCode/world-cup-simulator)
+- **Demonstração:** [Link para o simulador](https://MarcosMoraesCode.github.io/world-cup-simulator/)
 
 
 ## Projeto: FinPlann
 
 <div  >
-  <img width="150" height="80" src="https://github.com/marcosmoraesnf/personal-finance-management/blob/main/src/images/finLogoBlack.svg" alt="FinPlann" width="300">
+  <img width="150" height="80" src="https://github.com/MarcosMoraesCode/personal-finance-management/blob/main/src/images/finLogoBlack.svg" alt="FinPlann" width="300">
 </div>
 
 Com a intenção de desenvolver um projeto autêntico que testasse minhas habilidades nas tecnologias abaixo, decidi projetar um website capaz de auxiliar no gerenciamento das finanças pessoais do usuário.
